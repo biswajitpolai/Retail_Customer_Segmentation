@@ -1,7 +1,7 @@
 This project aims to segment customers based on their purchasing behavior using K-Means clustering. By identifying distinct customer groups, we can tailor marketing strategies and improve customer engagement and retention.
 
 
-The dataset used in this project is an online retail dataset containing the following features:
+The dataset used in this project is an online retail dataset containing the following features: Chen, D. (2012). Online Retail II [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D.
 
 Invoice: Unique identifier for each transaction.
 
